@@ -1,0 +1,20 @@
+{
+  "name": "ts-fft-complex",
+  "version": "1.0.0",
+  "description": "Fast Fourier Transform for complex numbers with bit reversal",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx tsx main.ts"
+  },
+  "keywords": ["typescript", "fft", "complex", "signal-processing", "algorithms"],
+  "author": "Mahmoud ElNemer <sultanelnemer@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElNeMeR70/ts-fft-complex.git"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
